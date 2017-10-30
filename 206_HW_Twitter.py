@@ -106,7 +106,7 @@ for x in range(3):
 	query = input("Query: ")
 	print (search_twitter(query))
 	
-# I have already cached the searches of  celtics, patriots, boston, michigan, hi
+# I have already cached the searches of  "celtics", "patriots", "boston", "michigan", "hi"
 
 
 #### Recommended order of tasks: ####
